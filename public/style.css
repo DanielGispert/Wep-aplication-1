@@ -1,0 +1,31 @@
+pre {
+    background-color: grey;
+    padding: 5px;
+    border-radius: 5xp;
+    box-shadow:0 5xp 3px 3px black;
+}
+
+body {
+    background-color:papayawhip
+}
+
+h1,h2,h3 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cyan;
+    color: green;
+    margin: 50px 30px 20px 100px;
+}
+
+p {
+    background-color:chartreuse ;
+    color: green;
+    margin: 50px 30px 20px 100px;
+    border: 1px solid black;
+    padding: 5px;
+
+
+}
+
+nav{
+    background-color: aqua;
+}
